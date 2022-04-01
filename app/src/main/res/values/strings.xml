@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project Juara Android</string>
+    <string name="tip_amount">Tip Amount : %s</string>
+</resources>
